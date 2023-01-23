@@ -22,7 +22,7 @@ The dataset is composed of multiple CSV files with information on competitions, 
 | `red cards` | number of red cards received | int |
 | `minutes played` | number of minutes played by player | int |
 
-(schema.png) 
+![](schema.png) 
 
 
 
